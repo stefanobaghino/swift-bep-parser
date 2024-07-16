@@ -4,5 +4,7 @@
 <dict>
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
+    <key>NSPrincipalClass</key>
+    <string>BazelXMLTestObserverRegistration</string>
 </dict>
 </plist>
